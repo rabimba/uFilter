@@ -1,0 +1,21 @@
+{
+  "name": "uFilter",
+  "authors": [
+    "Rabimba Karanjai"
+  ],
+  "description": "A Smart content filter to prevent online Harrasment",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "firebase": "^3.7.0",
+    "sentimood": "^1.1.0"
+  }
+}

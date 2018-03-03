@@ -27,20 +27,15 @@ var empty_trigupdate = {TRIGGERS : {
 	'sexual-violence' : []
 }};
 
-var config = {
-	apiKey: "AIzaSyDWJm1uIodzwOKvrWjJubqQTNgwkkQhEfM",
-	authDomain: "soothe-c374a.firebaseapp.com",
-	databaseURL: "https://soothe-c374a.firebaseio.com",
-	storageBucket: "soothe-c374a.appspot.com",
-	messagingSenderId: "261820611892"
 
 
-	// apiKey: "AIzaSyDSvpWIcJsYmTYtgfy4rEH02s2MOvOWBCY",
- //    authDomain: "blocker-5cdbd.firebaseapp.com",
- //    databaseURL: "https://blocker-5cdbd.firebaseio.com",
- //    projectId: "blocker-5cdbd",
- //    storageBucket: "blocker-5cdbd.appspot.com",
- //    messagingSenderId: "565739493986"
+
+	apiKey: "AIzaSyDSvpWIcJsYmTYtgfy4rEH02s2MOvOWBCY",
+    authDomain: "blocker-5cdbd.firebaseapp.com",
+    databaseURL: "https://blocker-5cdbd.firebaseio.com",
+    projectId: "blocker-5cdbd",
+    storageBucket: "blocker-5cdbd.appspot.com",
+    messagingSenderId: "565739493986"
 };
 firebase.initializeApp(config);
 
