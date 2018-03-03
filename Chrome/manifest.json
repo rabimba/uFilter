@@ -1,6 +1,6 @@
 {
-	"name": "Filter",
-	"description": "Browse the web with peace of mind.",
+	"name": "uFilter",
+	"description": "Don't get harrassed again.",
 	"version": "0.0.0.1",
 	"manifest_version": 2,
 	"icons": {
@@ -34,7 +34,7 @@
 	],
 	"content_security_policy": "script-src 'self' https://cdn.firebase.com https://*.firebaseio.com 'unsafe-eval'; object-src 'self'",
 	"browser_action": {
-		"default_title": "Filter",
+		"default_title": "uFilter",
 		"default_popup": "public/index.html"
 	}
 }
