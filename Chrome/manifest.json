@@ -1,7 +1,7 @@
 {
 	"name": "uFilter",
-	"description": "Don't get harrassed again.",
-	"version": "0.0.0.1",
+	"description": "Don't get harrassed again. uFilter is a smart filter which filters profanity from webpage based on your choice",
+	"version": "0.0.0.2",
 	"manifest_version": 2,
 	"icons": {
     "16": "public/img/blocker-icon-16.png",
